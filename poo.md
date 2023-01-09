@@ -10,7 +10,7 @@ Métodos --> **public void avanzarDia()**, **public void retrocederDia()** y **p
 
 Nombre de clase --> **PantallaReloj**
 
-Atributos --> **int hora**, **int minutos**
+Atributos --> **int hora** y **int minutos**
 
 Métodos --> **public void avanzarUnMinuto()**, **public void retrocederUnMinuto()**, **public void avanzarUnaHora()**, **public void retrocederUnaHora()** y **public String verHora()**
 
