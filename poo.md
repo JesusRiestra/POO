@@ -12,5 +12,5 @@ Nombre de clase --> **PantallaReloj**
 
 Atributos --> **int hora**, **int minutos**
 
-Métodos --> **public void avanzarUnMinuto()**, **public void avanzarUnaHora()** y **public String verHora()**
+Métodos --> **public void avanzarUnMinuto()**, **public void retrocederUnMinuto()**, **public void avanzarUnaHora()**, **public void retrocederUnaHora()** y **public String verHora()**
 
