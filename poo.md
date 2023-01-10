@@ -14,3 +14,7 @@ Atributos --> **int hora** y **int minutos**
 
 Métodos --> **public void avanzarUnMinuto()**, **public void retrocederUnMinuto()**, **public void avanzarUnaHora()**, **public void retrocederUnaHora()** y **public String verHora()**
 
+### Creando las tablas de verdad de los operadores booleanos
+
+[Operadores booleanos](https://imgur.com/a/LFgTbPV)
+
